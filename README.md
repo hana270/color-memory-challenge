@@ -18,3 +18,23 @@ Vite
 JavaScript
 CSS
 Vercel
+
+
+
+## Screenshots
+
+### Home
+
+![Home](screenshots/home.png)
+
+### Gameplay
+
+![Gameplay](screenshots/gameplay.png)
+
+### Game Over
+
+![Game Over](screenshots/gameover.png)
+
+### Mobile Version
+
+![Mobile](screenshots/mobile.png)
