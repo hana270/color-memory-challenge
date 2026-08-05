@@ -39,6 +39,4 @@ https://color-memory-challenge.vercel.app
 
 ![Game Over](screenshots/gameover.png)
 
-## 👩‍💻 Author
 
-BELHADJ Hana
