@@ -43,7 +43,3 @@ https://color-memory-challenge.vercel.app
 ### 📱 Mobile Version
 
 ![Mobile](public/screenshots/mobile.jpg)
-
-## 👩‍💻 Author
-
-**BELHADJ Hana**
