@@ -1,8 +1,8 @@
 # 🎨 Color Memory Challenge
 
-![Game Preview](screenshots/home.png)
+![Game Preview](public/screenshots/home.jpg)
 
-A modern and responsive memory game developed with React and Vite.
+A modern and responsive memory game developed with **React** and **Vite**. The game challenges players to memorize and reproduce a sequence of colors while progressively increasing the difficulty.
 
 ## 🚀 Live Demo
 
@@ -11,8 +11,9 @@ https://color-memory-challenge.vercel.app
 ## ✨ Features
 
 - 🎮 Interactive memory game
+- 🧠 Memory training
 - 📈 Score system
-- 🏆 Best score saved
+- 🏆 Best score saved with Local Storage
 - 🚀 Progressive levels
 - 📱 Responsive design
 - 🎨 Modern user interface
@@ -21,22 +22,28 @@ https://color-memory-challenge.vercel.app
 
 - React
 - Vite
-- JavaScript
+- JavaScript (ES6+)
 - CSS3
 - Vercel
 
 ## 📸 Screenshots
 
-### Home
+### 🏠 Home
 
-![Home](screenshots/home.png)
+![Home](public/screenshots/home.jpg)
 
-### Gameplay
+### 🎮 Gameplay
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](public/screenshots/gameplay.jpg)
 
-### Game Over
+### 😢 Game Over
 
-![Game Over](screenshots/gameover.png)
+![Game Over](public/screenshots/gameover.jpg)
 
+### 📱 Mobile Version
 
+![Mobile](public/screenshots/mobile.jpg)
+
+## 👩‍💻 Author
+
+**BELHADJ Hana**
